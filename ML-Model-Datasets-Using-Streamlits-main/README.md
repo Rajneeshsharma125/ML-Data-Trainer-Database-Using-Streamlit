@@ -250,10 +250,20 @@ informative statistical graphics.</li>
 
 ---
 
-## Thanks for Visiting 😄
+## 🚀 Thanks for Visiting!
 
-- Drop a 🌟 if you find this repository useful.<br><br>
-- If you have any doubts or suggestions, feel free to reach me.<br><br>
-📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
-<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
-- **Contribute and Discuss:** Feel free to open <a href= "https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/issues">issues 🐛</a>, submit <a href = "https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/pulls">pull requests 🛠️</a>, or start <a href = "https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/discussions">discussions 💬</a> to help improve this repository!
+- If you find this project helpful, please consider giving it a ⭐ **Star**!
+- I am always open to feedback, suggestions, or collaborations.
+
+### 📫 Connect with Me:
+
+&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Rajneesh_Sharma-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajneesh-sharma-12rh) &nbsp; [![Email Badge](https://img.shields.io/badge/Email-sharmarajneesh45681%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sharmarajneesh45681@gmail.com)
+
+---
+
+### 🤝 Contribute & Discuss
+
+- **Found a bug?** Open an [Issue 🐛](https://github.com/Rajneeshsharma125/ML-Data-Trainer-Database-Using-Streamlit/issues)
+- **Have a fix?** Submit a [Pull Request 🛠️](https://github.com/Rajneeshsharma125/ML-Data-Trainer-Database-Using-Streamlit/pulls)
+- **Want to chat?** Start a [Discussion 💬](https://github.com/Rajneeshsharma125/ML-Data-Trainer-Database-Using-Streamlit/discussions)
+-
